@@ -196,20 +196,28 @@ No son solo proyectos "legacy" - demuestran:
 ```javascript
 const aprendizaje = {
   actual: [
-    "Patrones avanzados de React",
-    "Mejores prácticas de TypeScript",
-    "Patrones de backend con Node.js",
-    "Testing (Jest, React Testing Library)"
+    "Agentes IA para desarrollo (arquitectura, roles y flujos)",
+    "Claude Code, Codex y OpenCode para entrega end-to-end",
+    "Skills, MCP, memoria/contexto y estrategias de prompting",
+    "Uso de IDEs + terminal con automatizacion asistida",
+    "Generadores de imagen aplicados a producto y contenido tecnico"
   ],
   proximo: [
-    "Next.js",
-    "GraphQL",
-    "Docker",
-    "CI/CD pipelines"
+    "Flujos multiagente con validacion automatica",
+    "Testing-first para agentes autonomos",
+    "Orquestacion de pipelines de desarrollo con IA"
   ],
-  objetivo: "Combinar 15 años de experiencia en desarrollo con tecnologías web de vanguardia"
+  objetivo: "Combinar 15 años de experiencia en desarrollo con IA aplicada para acelerar calidad, foco y entrega"
 };
 ```
+
+### 📈 Desempeño reciente con IA aplicada al desarrollo
+
+- 443 mensajes en 26 sesiones, con ritmo sostenido de iteracion tecnica y entrega.
+- 48 commits y 130 archivos trabajados, llevando cambios de plan a build/deploy de forma consistente.
+- Fuerte uso de edicion multiarchivo, terminal y tareas paralelas para resolver features y debugging complejo.
+- Alta capacidad de correccion de rumbo: cuando una estrategia no funciona, redefino alcance y cierro soluciones utiles.
+- Resultado general: predominan sesiones "fully achieved" y "mostly achieved", con mejora continua del proceso.
 
 ---
 
