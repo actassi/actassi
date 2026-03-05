@@ -177,20 +177,6 @@ No son solo proyectos "legacy" - demuestran:
 
 ---
 
-## 📊 Estadísticas GitHub
-
-<div align="center">
-
-![Estadísticas de Andrea](https://github-readme-stats.vercel.app/api?username=actassi&show_icons=true&theme=react&hide_border=true&include_all_commits=true&locale=es)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=actassi&layout=compact&theme=react&hide_border=true&locale=es)
-
-![Racha GitHub](https://github-readme-streak-stats.herokuapp.com/?user=actassi&theme=react&hide_border=true&locale=es)
-
-</div>
-
----
-
 ## 🌱 Actualmente aprendiendo
 
 ```javascript
