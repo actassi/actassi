@@ -1,4 +1,4 @@
-# Hola, soy Andrea Tassi 👋
+# Hola, soy Andrea 👋
 
 <div align="center">
 
