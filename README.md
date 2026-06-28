@@ -7,7 +7,7 @@
 *15 años resolviendo problemas complejos con código*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-andrea--tassi--it-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrea-tassi-it)
-[![Portfolio](https://img.shields.io/badge/Portfolio-cv--actassi.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://https://cv-actassi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-actassi.vercel.app-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://cv-actassi.vercel.app)
 [![Email](https://img.shields.io/badge/Contacto-LinkedIn-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://linkedin.com/in/andrea-tassi-it)
 
 </div>
@@ -26,7 +26,7 @@ const andrea = {
   buscando: "Proyectos de desarrollo web (remoto/híbrido)",
   
   completadoRecientemente: {
-    curso: "Codo a Codo 4.0 - Fullstack Developer",
+    producto: "ObraPlanner — SaaS de gestión de obras (producción)",
     proyectos: ["Funko-Shop E-commerce", "Clone X (Twitter Clone)"]
   },
   
@@ -71,6 +71,8 @@ A diferencia de otros developers salidos de bootcamps, aporto:
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft Access](https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 
 </div>
@@ -88,46 +90,26 @@ A diferencia de otros developers salidos de bootcamps, aporto:
 
 ## 🔥 Proyectos Destacados
 
-### 🛍️ [Funko-Shop E-commerce](https://github.com/actassi/Funko-Shop)
+### 🏗️ ObraPlanner — SaaS para la Industria de la Construcción
 
-**Aplicación Full Stack E-commerce**
+**Plataforma SaaS en producción con usuarios reales**
 
 ```
-Stack: Node.js, Express, HTML, CSS, JavaScript
-Features: Catálogo de productos, carrito de compras, panel admin (CRUD)
+Stack: React 18 · TypeScript · Tailwind CSS 4 · Node.js · Hono · Prisma · PostgreSQL
+Infra:  Turborepo (monorepo) · Vercel (frontend) · Render (API) · Neon (DB)
 ```
 
-Plataforma de e-commerce completa desarrollada como proyecto final de Codo a Codo 4.0.
+Aplicación full-stack que construí desde cero para digitalizar la planificación diaria de obras en Argentina. Las empresas constructoras la usan para asignar personal, movilidades y obras en un canvas interactivo, y generar la programación del día con un clic.
 
 **Highlights:**
-- 🏗️ Arquitectura MVC
-- 💾 Diseño e implementación de base de datos
-- 🔐 Operaciones CRUD completas
-- 📱 Diseño responsive
-- 🎨 UI limpia y amigable
+- 🎨 Canvas drag & drop con `@xyflow/react` y `@dnd-kit`
+- 🔐 Autenticación multi-tenant con `better-auth`
+- 📱 PWA instalable + tour de onboarding interactivo
+- 🗺️ Módulo Gantt, historial, stock de materiales, partes diarios
+- 🤖 Suite de tests con Vitest + automatización E2E con Playwright
+- 💾 Backups automáticos diarios vía GitHub Actions
 
-[🔗 Ver Repositorio](https://github.com/actassi/Funko-Shop)
-
----
-
-### ✖️ [Clone X - Clon de Twitter](https://github.com/actassi/cloneX)
-
-**Plataforma de Social Media**
-
-```
-Stack: JavaScript, HTML5, CSS3
-Features: Posts, interacciones sociales, feed dinámico
-```
-
-Proyecto colaborativo recreando funcionalidades principales de Twitter.
-
-**Highlights:**
-- 👥 Colaboración en equipo usando Git/GitHub
-- ⚡ Renderizado dinámico de contenido
-- 💬 Features sociales interactivas
-- 📱 Diseño UI responsive
-
-[🔗 Ver Repositorio](https://github.com/actassi/cloneX)
+[🌐 Ver App en Producción](https://obraplanner.com.ar)
 
 ---
 
@@ -247,7 +229,7 @@ Siempre abierta a conversar sobre:
 **Contactame:**
 
 - 💼 [LinkedIn](https://linkedin.com/in/andrea-tassi-it)
-- 🌐 [Portfolio](https://cv-actassi.netlify.app)
+- 🌐 [Portfolio](https://cv-actassi.vercel.app)
 - 📍 Funes, Santa Fe, Argentina
 
 ---
@@ -266,10 +248,10 @@ const logros = {
   
   transicion: {
     desde: "VBA/SQL",
-    hacia: "JavaScript/React/Node.js",
+    hacia: "JavaScript/React/Node.js/TypeScript",
     tiempo: "6 meses",
-    proyectos: ["Funko-Shop", "Clone X"],
-    resultado: "Construyendo aplicaciones web modernas exitosamente"
+    proyectos: ["ObraPlanner (SaaS en producción)", "Funko-Shop", "Clone X"],
+    resultado: "Producto SaaS propio funcionando con usuarios reales"
   },
   
   diferencial: {
