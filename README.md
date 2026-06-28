@@ -7,7 +7,7 @@
 *15 años resolviendo problemas complejos con código*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-andrea--tassi--it-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrea-tassi-it)
-[![Portfolio](https://img.shields.io/badge/Portfolio-cv--actassi.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://cv-actassi.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-cv--actassi.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://https://cv-actassi.vercel.app)
 [![Email](https://img.shields.io/badge/Contacto-LinkedIn-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://linkedin.com/in/andrea-tassi-it)
 
 </div>
