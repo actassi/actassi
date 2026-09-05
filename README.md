@@ -2,9 +2,9 @@
 
 <div align="center">
 
-**Desarrolladora Full Stack | JavaScript · React · Node.js**
+**Full Stack Developer | Producto, automatización e IA aplicada**
 
-*15 años resolviendo problemas complejos con código*
+*15 años construyendo sistemas que corren solos en producción*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-andrea--tassi--it-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrea-tassi-it)
 [![Portfolio](https://img.shields.io/badge/Portfolio-actassi.vercel.app-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://cv-actassi.vercel.app)
@@ -16,36 +16,39 @@
 
 ## 🚀 Sobre mí
 
-Soy **desarrolladora con un perfil único**: 15 años construyendo sistemas empresariales desde cero + formación reciente en tecnologías web modernas.
+Full Stack Developer con 15 años construyendo sistemas empresariales desde cero, hoy enfocada en SaaS con IA integrada y automatización de procesos reales de negocio.
 
 ```javascript
 const andrea = {
   ubicacion: "Funes, Santa Fe, Argentina",
-  especialidad: ["React", "Node.js", "JavaScript", "TypeScript"],
+  especialidad: ["React", "Node.js", "TypeScript", "Python", "Automatización con agentes de IA"],
   añosProgramando: 15,
-  buscando: "Proyectos de desarrollo web (remoto/híbrido)",
-  
-  completadoRecientemente: {
-    producto: "ObraPlanner — SaaS de gestión de obras (producción)",
-    proyectos: ["Funko-Shop E-commerce", "Clone X (Twitter Clone)"]
+  buscando: "Proyectos de desarrollo web y automatización (remoto/híbrido)",
+
+  shippeandoAhora: {
+    saasPropio: "ObraPlanner — SaaS de gestión de obras en producción, con asistente de IA incluido en el plan",
+    proyectoPropio: "QRSafe — verificación de QR de pago vía bot de WhatsApp",
+    automatizaciones: [
+      "Cotejo fiscal automático (ARCA vs. contable)",
+      "Recibos de sueldo digitales + libro de sueldos",
+      "Integraciones Tienda Nube ↔ sistemas de gestión",
+    ],
   },
-  
-  superpoder: "Transformar lógica de negocio compleja en código limpio y mantenible",
-  
-  curiosidad: "Evolucioné de VBA a JavaScript - misma mentalidad de resolver problemas, stack más moderno 🔥"
+
+  superpoder: "Convertir procesos manuales de negocio en sistemas que corren solos",
+
+  curiosidad: "Empecé automatizando con VBA en 2011. Sigo automatizando — solo que ahora un agente de IA escribe parte del código conmigo 🔥",
 };
 ```
 
-### 💡 Lo que me diferencia
+### 💡 Lo que aporto
 
-A diferencia de otros developers salidos de bootcamps, aporto:
-
-- ✅ **15 años** de experiencia real programando
-- ✅ **Mentalidad production-ready** - mantuve código durante 15 años
-- ✅ **Comprensión full-stack** - desde diseño de BD hasta UI
-- ✅ **Resolución de problemas complejos** - manejé sistemas críticos
-- ✅ **Maestría en debugging** - 15 años solucionando issues en producción
-- ✅ **Stack moderno** - React, Node.js, JavaScript, TypeScript
+- ✅ **15 años** construyendo software que corre en producción real, sin red de contención
+- ✅ **SaaS propio en producción** (ObraPlanner) con empresas pagando por el producto
+- ✅ **Mentalidad full-stack real** — diseño de datos, backend, frontend y el proceso de negocio detrás
+- ✅ **Automatización con impacto medible** — llevé procesos fiscales y de nómina de horas a minutos
+- ✅ **IA como parte del flujo de trabajo**, no como demo: agentes integrados en producción y en mis propias herramientas internas
+- ✅ **Debugging y mantenimiento** — 15 años sosteniendo sistemas críticos sin fallas
 
 ---
 
@@ -59,13 +62,14 @@ A diferencia de otros developers salidos de bootcamps, aporto:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
-### 🗄️ Expertise en Bases de Datos & Backend
+### 🗄️ Bases de Datos & Backend
 
 <div align="center">
 
@@ -73,14 +77,17 @@ A diferencia de otros developers salidos de bootcamps, aporto:
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Microsoft Access](https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 
 </div>
 
-### 📊 Datos & Automatización
+### 🤖 IA & Automatización
 
 <div align="center">
 
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white)
 
@@ -92,28 +99,58 @@ A diferencia de otros developers salidos de bootcamps, aporto:
 
 ### 🏗️ ObraPlanner — SaaS para la Industria de la Construcción
 
-**Plataforma SaaS en producción con usuarios reales**
+**Plataforma SaaS multi-tenant en producción, con empresas reales pagando**
 
 ```
 Stack: React 18 · TypeScript · Tailwind CSS 4 · Node.js · Hono · Prisma · PostgreSQL
 Infra:  Turborepo (monorepo) · Vercel (frontend) · Render (API) · Neon (DB)
 ```
 
-Aplicación full-stack que construí desde cero para digitalizar la planificación diaria de obras en Argentina. Las empresas constructoras la usan para asignar personal, movilidades y obras en un canvas interactivo, y generar la programación del día con un clic.
+Producto que diseñé y construí desde cero para digitalizar la planificación diaria de obras en Argentina: asignación de personal, vehículos y tareas en un canvas drag-and-drop, con generación automática de la programación del día y envío por WhatsApp en un clic.
 
 **Highlights:**
-- 🎨 Canvas drag & drop con `@xyflow/react` y `@dnd-kit`
-- 🔐 Autenticación multi-tenant con `better-auth`
-- 📱 PWA instalable + tour de onboarding interactivo
-- 🗺️ Módulo Gantt, historial, stock de materiales, partes diarios
-- 🤖 Suite de tests con Vitest + automatización E2E con Playwright
+- 🎨 Canvas interactivo con `@xyflow/react` + `@dnd-kit`: obras, subtareas, movilidades y personal
+- 🤖 Asistente de IA incluido en el plan, con guardrails de alcance propios
+- 💳 Alta self-serve con verificación de email y suscripciones vía MercadoPago (alta, baja y reconciliación automática)
+- 🔐 Autenticación multi-tenant con `better-auth` · roles: admin, encargado, auditor, gerencia
+- 🗺️ Módulo Gantt con clima por obra, historial, stock de materiales y partes diarios
 - 💾 Backups automáticos diarios vía GitHub Actions
 
 [🌐 Ver App en Producción](https://obraplanner.com.ar)
 
 ---
 
-### 💼 Proyectos Profesionales (Privados)
+### 🔐 QRSafe — Verificación de QR de pago por WhatsApp
+
+**Proyecto propio, repo público**
+
+```
+Stack: React + Vite · Express · TypeScript · Supabase (PostgreSQL) · Kapso (WhatsApp API)
+```
+
+Verificación de QR de pago basada en la relación entre un comercio y los códigos que declara como propios — no en la apariencia del QR. El comercio registra sus puntos de cobro; cualquier persona consulta un código por WhatsApp antes de pagar y recibe evidencia positiva, falta de cobertura, anomalías estructurales o código ilegible, nunca un veredicto inventado.
+
+**Highlights:**
+- 🔎 Motor de verificación propio (`@qrsafe/verification`): huella SHA-256 del payload decodificado
+- 🤖 Bot de WhatsApp vía Kapso, con validación de firma HMAC-SHA256 en cada webhook
+- 🖥️ Panel del comercio en React + Vite para altas de empresa, puntos de cobro y bindings de QR
+
+[💻 Ver repo en GitHub](https://github.com/actassi/QRSafe)
+
+---
+
+### ⚙️ Automatización de procesos reales de negocio
+
+Proyectos de automatización que desarrollé para una empresa real (RSR Ingeniería) y para comercios que uso como Partner de plataformas de e-commerce. Por confidencialidad de datos de clientes y empleados, estos no tienen repo público, pero sí producción real y uso diario:
+
+- **Cotejo fiscal automático** — cruza los comprobantes de ARCA contra la base contable, detecta faltantes, excedentes y discrepancias de importes (Python + Access/SQL)
+- **Recibos de sueldo digitales** — genera los recibos (Decreto 407/26) y el libro de sueldos automáticamente, corriendo 100% local para proteger datos de empleados (Python + SQLite)
+- **Automatización de facturas** — skill de agente que matchea facturas de proveedores contra el contable, las renombra, carga y dispara la impresión (PowerShell + agente de IA)
+- **Integraciones Tienda Nube ↔ gestión** — como Partner de Tienda Nube, integración OAuth2 con su API y sincronización bidireccional de catálogo (por SKU, con imágenes y variantes) hacia sistemas de gestión como LaPyme
+
+---
+
+### 💼 Antecedentes: sistemas empresariales en producción desde 2011
 
 #### Sistema de Gestión Financiera
 ```javascript
@@ -127,8 +164,8 @@ const proyecto = {
     "Generación de órdenes de pago",
     "Integración con sistema fiscal",
     "Automatización de emails",
-    "Validación anti-duplicados"
-  ]
+    "Validación anti-duplicados",
+  ],
 };
 ```
 
@@ -143,77 +180,51 @@ const proyecto = {
     "Diseño de base de datos relacional",
     "Lógica de negocio para cálculos complejos",
     "UI personalizada para carga de datos",
-    "Reportes dinámicos para gerencia"
-  ]
+    "Reportes dinámicos para gerencia",
+  ],
 };
 ```
 
-**Por qué estos proyectos importan:**
-
-No son solo proyectos "legacy" - demuestran:
-- ✅ Desarrollo full-stack (frontend, backend, base de datos)
-- ✅ Construcción de sistemas production-grade desde cero
-- ✅ Código escalable y mantenible
-- ✅ Implementación de lógica de negocio compleja
-- ✅ 15 años de código funcionando sin fallas críticas
+Estos sistemas siguen en producción, y son la base sobre la que después construí las automatizaciones en Python que uso hoy para los mismos procesos.
 
 ---
 
-## 🌱 Actualmente aprendiendo
+## 🌱 Actualmente profundizando
 
 ```javascript
 const aprendizaje = {
   actual: [
-    "Agentes IA para desarrollo (arquitectura, roles y flujos)",
+    "Agentes de IA para desarrollo (arquitectura, roles y flujos)",
     "Claude Code, Codex y OpenCode para entrega end-to-end",
     "Skills, MCP, memoria/contexto y estrategias de prompting",
-    "Uso de IDEs + terminal con automatizacion asistida",
-    "Generadores de imagen aplicados a producto y contenido tecnico"
+    "Uso de IDEs + terminal con automatización asistida",
   ],
   proximo: [
-    "Flujos multiagente con validacion automatica",
-    "Testing-first para agentes autonomos",
-    "Orquestacion de pipelines de desarrollo con IA"
+    "Flujos multiagente con validación automática",
+    "Testing-first para agentes autónomos",
+    "Orquestación de pipelines de desarrollo con IA",
   ],
-  objetivo: "Combinar 15 años de experiencia en desarrollo con IA aplicada para acelerar calidad, foco y entrega"
+  objetivo: "Combinar 15 años de experiencia en desarrollo con IA aplicada para acelerar calidad, foco y entrega",
 };
 ```
-
-### 📈 Desempeño reciente con IA aplicada al desarrollo
-
-- 443 mensajes en 26 sesiones, con ritmo sostenido de iteracion tecnica y entrega.
-- 48 commits y 130 archivos trabajados, llevando cambios de plan a build/deploy de forma consistente.
-- Fuerte uso de edicion multiarchivo, terminal y tareas paralelas para resolver features y debugging complejo.
-- Alta capacidad de correccion de rumbo: cuando una estrategia no funciona, redefino alcance y cierro soluciones utiles.
-- Resultado general: predominan sesiones "fully achieved" y "mostly achieved", con mejora continua del proceso.
 
 ---
 
 ## 💼 Qué estoy buscando
 
-Estoy **activamente buscando** oportunidades para contribuir en proyectos de desarrollo web donde pueda:
+Estoy abierta a proyectos y roles donde pueda aportar:
 
-- 🚀 Aplicar mis **15 años de experiencia programando** a proyectos web modernos
-- 💻 Trabajar con **React, Node.js, JavaScript**
-- 🗄️ Aprovechar mi **fuerte expertise en bases de datos y backend**
-- 🤝 Colaborar con equipos y seguir aprendiendo
-- 🌍 Trabajar remoto o híbrido (basada en Argentina)
+- 🚀 15 años de experiencia resolviendo problemas reales de negocio con código
+- 💻 Desarrollo full-stack con React, Node.js, TypeScript y Python
+- 🤖 Automatización de procesos con agentes de IA integrados al flujo de trabajo
+- 🗄️ Diseño de datos y arquitectura de sistemas, no solo interfaz
+- 🌍 Modalidad remota o híbrida (basada en Argentina)
 
 ### 🎯 Roles ideales
 
-- Desarrolladora Full Stack (Junior/Mid-level)
-- Desarrolladora Frontend (React)
-- Desarrolladora Backend (Node.js)
-- Desarrolladora JavaScript
-- Desarrolladora Web
-
----
-
-## 🎤 Mi historia en 30 segundos
-
-> *"Pasé 15 años resolviendo problemas complejos de negocio con código - construyendo sistemas desde cero, manejando miles de transacciones, manteniendo código en producción. Recientemente hice la transición a desarrollo web moderno (React/Node.js) porque me apasiona evolucionar con la tecnología.*
->
-> *Lo que aporto que otros developers junior no tienen: experiencia real en resolución de problemas, mentalidad production-ready, y la capacidad de diseñar sistemas escalables. Ya hice la parte difícil - aprender a pensar como desarrolladora. Ahora solo uso herramientas más modernas para hacerlo."*
+- Full Stack Developer (React / Node.js)
+- Desarrolladora de producto para SaaS
+- Automatización de procesos con IA / Agentes
 
 ---
 
@@ -224,7 +235,7 @@ Siempre abierta a conversar sobre:
 - 💼 Oportunidades laborales
 - 🤝 Colaboración en proyectos
 - 💡 Discusiones técnicas
-- 🌱 Aprender juntos
+- 🌱 Automatización e IA aplicada
 
 **Contactame:**
 
@@ -238,27 +249,25 @@ Siempre abierta a conversar sobre:
 
 ```javascript
 const logros = {
-  programacion: {
+  produccion: {
     añosEnProduccion: 15,
     sistemasDesarrollados: "Múltiples aplicaciones full-stack",
-    reduccionDeTiempo: "99% (de horas a minutos)",
+    reduccionDeTiempo: "99% (de horas a minutos) en procesos fiscales y de nómina",
     escalabilidad: "Crecimiento 500% sin refactoring",
-    uptime: "15 años sin fallas críticas"
+    uptime: "15 años sin fallas críticas",
   },
-  
-  transicion: {
-    desde: "VBA/SQL",
-    hacia: "JavaScript/React/Node.js/TypeScript",
-    tiempo: "6 meses",
-    proyectos: ["ObraPlanner (SaaS en producción)", "Funko-Shop", "Clone X"],
-    resultado: "Producto SaaS propio funcionando con usuarios reales"
+
+  proyectosRecientes: {
+    saasPropio: "ObraPlanner — SaaS en producción con empresas reales y asistente de IA",
+    proyectoPublico: "QRSafe — bot de verificación de QR de pago vía WhatsApp",
+    automatizaciones: "Cotejo fiscal, sueldos digitales, integraciones Tienda Nube ↔ gestión",
   },
-  
+
   diferencial: {
-    fortaleza: "Resolución de problemas nivel senior con entusiasmo de junior por tech moderna",
+    fortaleza: "Resolución de problemas nivel senior aplicada a herramientas y stacks modernos",
     mentalidad: "Código production-ready, siempre",
-    enfoque: "Limpio, mantenible, escalable"
-  }
+    enfoque: "Automatizar lo repetitivo, medir el impacto",
+  },
 };
 ```
 
@@ -281,13 +290,11 @@ Después de 15 años manteniendo mi propio código, aprendí:
 
 <div align="center">
 
-### 💫 De 15 años de backend a full-stack moderno
+### 💫 15 años construyendo sistemas, hoy con IA como parte del proceso
 
-### 🚀 Lista para aportar experiencia real a tus proyectos web
+### 🚀 Lista para aportar experiencia real a tu producto o a tu proceso de negocio
 
 **¡Gracias por visitar!** ⭐
-
-*Si pensás que mi perfil único puede agregar valor a tu equipo, ¡hablemos!*
 
 </div>
 
